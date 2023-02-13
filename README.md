@@ -7,6 +7,7 @@ ___
 * [Законодательная база](https://forum.majestic-rp.ru/forums/zakonodatelnaja-baza.255/)
   + **БАЗА, ЭТО ЗНАЮТ ВСЕ СОВЕТСКИЕ ДЕТИ!**
     - [Конституционный Закон “О государственных структурах” штата San-Andreas](#закон-о-gos)
+    - [Процессуальный кодекс](#процессуальный-кодекс)
   + Прочее
     - [Конституция штата San-Andreas](#конституция-sa) 
 * [Общие правила проекта](https://forum.majestic-rp.ru/forums/general-server-rules/)
@@ -98,7 +99,8 @@ ___
   - Статья 6.2.9. Обыск ТС без ордера при преследовании.
 Ну а дальше я чет устал, все равно база это lscsd,pd,fib.
 ___
-
+### [Процессуальный кодекс](https://forum.majestic-rp.ru/threads/processualnyj-kodeks-shtata-san-andreas.19688/)
+  
 ___
 ### [Основные правила сервера](https://forum.majestic-rp.ru/threads/osnovnye-pravila-servera.8036/)
   - Запрещено одновременно состоять несколькими персонажами во фракции.
